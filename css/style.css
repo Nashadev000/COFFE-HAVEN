@@ -35,11 +35,13 @@ html {
 
 .secundario {
     display: flex;
+    justify-content: center;
 }
 
 .container-logo {
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 0.5rem;
 }
 
